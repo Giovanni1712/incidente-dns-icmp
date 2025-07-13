@@ -2,7 +2,7 @@
 
 ## Visão Geral
 
-Este projeto apresenta a análise de um problema de rede que impediu o acesso ao site www.yummyrecipesforme.com. O erro exibido foi:  
+Este projeto apresenta a análise de um problema de rede que impediu o acesso ao site **www.yummyrecipesforme.com**. O erro exibido foi:  
 **"porta de destino inalcançável"**.
 
 Meu objetivo foi investigar o que estava acontecendo usando uma ferramenta de captura de pacotes chamada **tcpdump** para entender o problema.
